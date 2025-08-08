@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/classicmster/Documents/Projects/mini app/env/bin/python3" "$0" "$@"
-' '''
+#!/home/classicmster/Documents/Projects/mini_app/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
